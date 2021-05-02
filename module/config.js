@@ -458,6 +458,7 @@ DND5E.skills = {
   "ins": "DND5E.SkillIns",
   "itm": "DND5E.SkillItm",
   "inv": "DND5E.SkillInv",
+  "mec": "DND5E.SkillMec",
   "med": "DND5E.SkillMed",
   "nat": "DND5E.SkillNat",
   "prc": "DND5E.SkillPrc",
