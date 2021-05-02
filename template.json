@@ -140,6 +140,10 @@
             "value": 0,
             "ability": "int"
           },
+          "mec": {
+            "value": 0,
+            "ability": "int"
+          },
           "med": {
             "value": 0,
             "ability": "wis"
