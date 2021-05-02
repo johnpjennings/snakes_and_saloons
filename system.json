@@ -1,6 +1,6 @@
 {
-  "name": "dnd5e",
-  "title": "Snakes & Saloons - A dnd 5e mod",
+  "name": "Snakes",
+  "title": "DnD5e - Snakes & Saloons Mod",
   "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
   "version": "1.2.4",
   "author": "Atropos",
@@ -93,7 +93,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.7.6",
   "compatibleCoreVersion": "0.7.9",
-  "url": "https://gitlab.com/foundrynet/dnd5e",
-  "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/dnd5e/-/archive/release-1.2.4/dnd5e-release-1.2.4.zip"
+  "url": "https://github.com/johnpjennings/snakes_and_saloons",
+  "manifest": "https://raw.githubusercontent.com/johnpjennings/snakes_and_saloons/master/system.json",
+  "download": "https://github.com/johnpjennings/snakes_and_saloons/releases/download/test/snakessaloons-master.zip"
 }
